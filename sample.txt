@@ -7,4 +7,6 @@ The menu list
 3.Americanao
 4.French fry
 5.potato chips
+6.coke
+7.fanta
 
